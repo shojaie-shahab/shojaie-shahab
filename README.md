@@ -51,4 +51,3 @@ I'm always eager to improve my skills, take on new challenges, and build useful 
     <img alt="Breakout Game" src="items/breakout-light.svg" width="600" />
   </picture>
 </p>
-
