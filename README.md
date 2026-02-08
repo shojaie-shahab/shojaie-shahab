@@ -42,7 +42,6 @@ I'm always eager to improve my skills, take on new challenges, and build useful 
 <img src="items/cisco.png" width="50" alt="Cisco" />
 
 
-
 </p>
 
 <p align="center">
