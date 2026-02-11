@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="80" viewBox="0 0 500 80">
+  <!-- بک‌گراند مشکی -->
+  <rect width="500" height="80" fill="black"/>
+
+  <!-- LED سبز کلاسیک -->
+  <g fill="#00FF00">
+    <!-- عدد 2 -->
+    <rect x="10" y="10" width="10" height="10"/>
+    <rect x="25" y="10" width="10" height="10"/>
+    <rect x="40" y="10" width="10" height="10"/>
+    <rect x="40" y="25" width="10" height="10"/>
+    <rect x="40" y="40" width="10" height="10"/>
+    <rect x="25" y="40" width="10" height="10"/>
+    <rect x="10" y="40" width="10" height="10"/>
+    <rect x="10" y="25" width="10" height="10"/>
+
+    <!-- عدد 0 -->
+    <rect x="60" y="10" width="10" height="10"/>
+    <rect x="75" y="10" width="10" height="10"/>
+    <rect x="90" y="10" width="10" height="10"/>
+    <rect x="60" y="25" width="10" height="10"/>
+    <rect x="90" y="25" width="10" height="10"/>
+    <rect x="60" y="40" width="10" height="10"/>
+    <rect x="75" y="40" width="10" height="10"/>
+    <rect x="90" y="40" width="10" height="10"/>
+
+    <!-- عدد 2 -->
+    <rect x="110" y="10" width="10" height="10"/>
+    <rect x="125" y="10" width="10" height="10"/>
+    <rect x="140" y="10" width="10" height="10"/>
+    <rect x="140" y="25" width="10" height="10"/>
+    <rect x="140" y="40" width="10" height="10"/>
+    <rect x="125" y="40" width="10" height="10"/>
+    <rect x="110" y="40" width="10" height="10"/>
+    <rect x="110" y="25" width="10" height="10"/>
+
+    <!-- عدد 5 -->
+    <rect x="160" y="10" width="10" height="10"/>
+    <rect x="175" y="10" width="10" height="10"/>
+    <rect x="190" y="10" width="10" height="10"/>
+    <rect x="160" y="25" width="10" height="10"/>
+    <rect x="160" y="40" width="10" height="10"/>
+    <rect x="175" y="40" width="10" height="10"/>
+    <rect x="190" y="40" width="10" height="10"/>
+    <rect x="190" y="25" width="10" height="10"/>
+
+    <!-- عدد 1 -->
+    <rect x="210" y="10" width="10" height="10"/>
+    <rect x="210" y="25" width="10" height="10"/>
+    <rect x="210" y="40" width="10" height="10"/>
+
+    <!-- عدد 2 -->
+    <rect x="230" y="10" width="10" height="10"/>
+    <rect x="245" y="10" width="10" height="10"/>
+    <rect x="260" y="10" width="10" height="10"/>
+    <rect x="260" y="25" width="10" height="10"/>
+    <rect x="260" y="40" width="10" height="10"/>
+    <rect x="245" y="40" width="10" height="10"/>
+    <rect x="230" y="40" width="10" height="10"/>
+    <rect x="230" y="25" width="10" height="10"/>
+
+    <!-- عدد 5 -->
+    <rect x="280" y="10" width="10" height="10"/>
+    <rect x="295" y="10" width="10" height="10"/>
+    <rect x="310" y="10" width="10" height="10"/>
+    <rect x="280" y="25" width="10" height="10"/>
+    <rect x="280" y="40" width="10" height="10"/>
+    <rect x="295" y="40" width="10" height="10"/>
+    <rect x="310" y="40" width="10" height="10"/>
+    <rect x="310" y="25" width="10" height="10"/>
+
+    <!-- عدد 1 -->
+    <rect x="330" y="10" width="10" height="10"/>
+    <rect x="330" y="25" width="10" height="10"/>
+    <rect x="330" y="40" width="10" height="10"/>
+
+    <!-- عدد 3 -->
+    <rect x="350" y="10" width="10" height="10"/>
+    <rect x="365" y="10" width="10" height="10"/>
+    <rect x="380" y="10" width="10" height="10"/>
+    <rect x="380" y="25" width="10" height="10"/>
+    <rect x="380" y="40" width="10" height="10"/>
+    <rect x="365" y="40" width="10" height="10"/>
+    <rect x="350" y="40" width="10" height="10"/>
+    <rect x="350" y="25" width="10" height="10"/>
+  </g>
+</svg>
