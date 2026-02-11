@@ -1,6 +1,17 @@
-## 👋 About Me
 
-Hello  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hello;i+see+you+...;but++!;Not+forever.++%3A)" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
+
+
+## 👋 About Me
+  
 I am a **Computer Engineering student** 💻 with a strong interest in technology. I love working with **Linux** 🐧 and exploring everything related to **infrastructure** and **system administration** 🛠️.
 
 I enjoy learning new things every day, applying what I learn, and **documenting my progress** to share with others 📚✍️.
@@ -51,3 +62,7 @@ I'm always eager to improve my skills, take on new challenges, and build useful 
     <img alt="Breakout Game" src="items/breakout-light.svg" width="600" />
   </picture>
 </p>
+
+
+
+
