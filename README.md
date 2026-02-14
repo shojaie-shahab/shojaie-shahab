@@ -8,13 +8,9 @@
 
 
 
-
-
 ## 👋 About Me
   
 I am a **Computer Engineering student** 💻 with a strong interest in technology. I love working with **Linux** 🐧 and exploring everything related to **infrastructure** and **system administration** 🛠️.
-
-I enjoy learning new things every day, applying what I learn, and **documenting my progress** to share with others 📚✍️.
 
 🔥 My main interests include:
 - 🐧 **Linux**
